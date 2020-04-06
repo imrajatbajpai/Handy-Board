@@ -52,6 +52,7 @@ CLOSING BATCH
 
 ### HANDYBOARD Library
 
+NOTE: (copy data1 content in data folder and delete data1 folder)
 Now that everything is working, let's dive into the library.
 While a Dataset is already included, you should create a new one for a few reasons:
 * Every device is different, even a small change in the accelerometer position makes the device less precise. **Everytime you change your device you should create a new dataset, to improve precision.**
